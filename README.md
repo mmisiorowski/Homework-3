@@ -1,2 +1,3 @@
 # Homework-3
-Word guess attempt
+Psychic & Stuff upload
+
